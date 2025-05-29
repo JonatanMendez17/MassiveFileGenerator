@@ -42,5 +42,17 @@ Cada línea está construida según el tipo de proceso elegido (conciliación, m
 
 ---
 
-## 📂 Estructura del proyecto
+---
+
+## 🔒 Aviso legal
+
+Este repositorio tiene como único fin compartir una experiencia técnica personal con fines demostrativos.
+
+- El código aquí publicado es una **versión adaptada**, genérica y sin vínculos directos con procesos o datos reales de ninguna empresa.
+- **Se prohíbe la distribución o uso comercial** sin autorización expresa del autor.
+
+🛡️ Todos los derechos reservados © [Jonatan Ezequiel Mendez]
+
+
+
 
