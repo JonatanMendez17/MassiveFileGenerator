@@ -7,10 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Remove="BulkActivitiesGenerator\**" />
-    <EmbeddedResource Remove="BulkActivitiesGenerator\**" />
-    <None Remove="BulkActivitiesGenerator\**" />
-  </ItemGroup>
-
 </Project>
